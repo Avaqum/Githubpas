@@ -1,6 +1,15 @@
 # markdown
 
+<<<<<<< HEAD
 ## asdawdadw
+=======
+yujmrethernnbv
+
+fmjcbvu980rt
+
+asdwrqryhtjfg
+
+>>>>>>> cooperbranch
 ## vsc
 >>comment
 
@@ -12,7 +21,7 @@ eswetwerwer
 
 > Citate
 
-
+# something intresting
 **asdawdtregdfth**
 
 ~~ewtesdfet~~
@@ -22,6 +31,12 @@ eswetwerwer
 
 1231234456346123
 
+<<<<<<< HEAD
 qwrqwrqwr
 
 asdwqerqrqwr
+=======
+aspo;pghpnlghmpyu=-768
+
+fgjpotyjfhgj
+>>>>>>> cooperbranch
