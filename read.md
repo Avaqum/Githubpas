@@ -10,5 +10,13 @@
 
 > Citate
 
-asdasdasda
-wqertwer
+
+**asdawdtregdfth**
+
+~~ewtesdfet~~
+
+*eryretyjfgdfg*
+
+
+1231234456346123
+>>>>>>> SilverBranch
