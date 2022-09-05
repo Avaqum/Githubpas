@@ -9,7 +9,6 @@ fmjcbvu980rt
 
 asdwrqryhtjfg
 
->>>>>>> cooperbranch
 ## vsc
 >>comment
 
@@ -31,12 +30,9 @@ eswetwerwer
 
 1231234456346123
 
-<<<<<<< HEAD
+
 qwrqwrqwr
 
 asdwqerqrqwr
-=======
-aspo;pghpnlghmpyu=-768
 
-fgjpotyjfhgj
->>>>>>> cooperbranch
+
